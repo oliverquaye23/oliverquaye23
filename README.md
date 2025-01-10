@@ -18,4 +18,4 @@ Welcome to my GitHub profile! I'm passionate about software engineering and fron
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oliver-quaye/)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [Twitter](https://x.com/oliverquaye23?t=QfOnIHIbI3gOIzLurOaKOw&s=09)
