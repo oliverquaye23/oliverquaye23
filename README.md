@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Oliver Quaye 👋
 
-<!--
-**oliverquaye23/oliverquaye23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software engineering and frontend development.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Final year computer science student at the University of Ghana.
+- 💡 Interested in AI, blockchain, and Web3 technologies.
+- 🌱 Currently learning more about intelligent agents and system design.
+- 🎨 Skilled in graphic design with Photoshop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: JavaScript, Python.
+- **Frameworks**: React, Vue.js, Node.js,Django.
+- **Tools**: Git, GitHub, Tailwind CSS, Photoshop.
+
+## GitHub Stats
+![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliverquaye&show_icons=true&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Twitter](https://twitter.com/your-twitter-handle)
