@@ -17,5 +17,5 @@ Welcome to my GitHub profile! I'm passionate about software engineering and fron
 ![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliverquaye&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [LinkedIn](https://www.linkedin.com/in/oliver-quaye/)
 - [Twitter](https://twitter.com/your-twitter-handle)
